@@ -77,7 +77,7 @@ Rules:
 - Return only the JSON object`;
 
     try {
-      const response = await fetch("https://claude-proxy-gb7o.onrender.com/api/messages", {
+      const response = await fetch("https://claude-proxy-kxgv.onrender.com/api/messages", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
